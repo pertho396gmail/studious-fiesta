@@ -1,0 +1,2 @@
+# studious-fiesta
+perthochowdhury45@outlook.com [Enter feedback here]  Document Details   this section. The docs.microsoft.com ➟ GitHub issue linking.  ID: 2f5573dd-ecf2-b49d-b853-dfd1a5b3c1f4 Version Independent ID: 123ad670-6099-ad69-6012-92482586903e Content: Handle file activation - UWP app developer Content Source: windows-apps-src/launch-resume/handle-file-activation.md Product: windows GitHub Login: @TylerMSFT Microsoft Alias: twhitney
